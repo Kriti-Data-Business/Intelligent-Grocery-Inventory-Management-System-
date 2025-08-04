@@ -7,8 +7,7 @@
 **Industry**: Quick Commerce & Grocery Delivery  
 **Challenge**: Multi-location inventory optimization with real-time demand forecasting  
 **Solution**: AI-driven inventory management platform with ensemble ML models  
-**Timeline**: 6 months development, 3 months deployment  
-**Investment**: ₹1.65 crores  
+ 
 **ROI**: 650% annually  
 
 ---
